@@ -1,0 +1,62 @@
+h2{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    border: solid black ;
+    border-style: double;
+    border-radius: 25px;
+}
+.intro{
+    border: solid black;
+    padding: 10px;
+    background-color: aqua;
+    font-size: larger;
+    font-family: cursive;
+    border-radius: 20px;
+}
+.list{
+    border: solid black;
+    padding:10px ;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    font-size: larger;
+    border-radius: 20px;
+}
+.pic{
+    border: solid black;
+    border-style: solid;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+}
+.visitor{
+    border: solid black;
+    border-style: solid;
+    background-color: aqua;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+.info{
+    border: solid rgb(1, 0, 1);
+    border-style: solid;
+    background-color: bisque;
+    border-radius: 20px;
+    padding: 10px;
+}
+.about{
+    border: solid black;
+    padding:10px ;
+    margin-top: 20px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+    font-size: larger;
+    border-radius: 20px;
+}
